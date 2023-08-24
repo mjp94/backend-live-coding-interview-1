@@ -37,11 +37,3 @@ What is the time and space complexity of the solution?
 
 How hashmap works in java(what do hashCode(), equals() methods do? Can we use non-immutable key? Why is it important to have immutable key. What would happen if we use non-immutable key?)
 
-
-Lisa has recently moved to her new apartment. She has bought some furniture and made some transactions in her account.
-She found out that she needs to pay for her college, and she doesn't have enough money, so she should return a few
-pieces the furniture.
-Given the transaction list can you please calculate the max number of items she can keep?
-Note: She paid for each item separately (each transaction is for 1 piece of furniture)
-Implement your solution
-in [BudgetServiceImpl](src/main/java/com/backbase/transaction/service/impl/BudgetServiceImpl.java) class
